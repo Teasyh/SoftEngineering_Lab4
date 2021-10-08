@@ -24,6 +24,7 @@ page{
   left:200rpx;
   top:900rpx;
 }
+/* 设计骰子样式 */
 .dice1{
   position: absolute;
   height: 100rpx;

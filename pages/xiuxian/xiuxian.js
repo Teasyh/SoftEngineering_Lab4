@@ -3,6 +3,7 @@ Page({
     // 使用 wx.createAudioContext 获取 audio 上下文 context
     this.audioCtx = wx.createAudioContext('myAudio')
   },
+  // 添加休闲音乐
   data: {
     poster1: 'https://z3.ax1x.com/2021/10/07/5pP5Yd.jpg',
     name1: '明月几时有',

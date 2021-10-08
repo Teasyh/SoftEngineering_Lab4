@@ -32,6 +32,7 @@ Page({
     this.setData({
       number:options.number,
       Sresult:S,
+      // 计算是第几位玩家
       cmp1:Number(options.number)%Number(10)+Number(1),
     })
   },

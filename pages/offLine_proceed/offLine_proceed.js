@@ -27,7 +27,7 @@ Page({
                 seven: '四进',
                 eight: '二举',
                 nine: '一秀',
-                ten: '再接再厉！'
+                ten: '再接再厉'
             },
             this_level; // 存储当前等级
  

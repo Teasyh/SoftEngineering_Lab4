@@ -4,6 +4,7 @@
 </view>
 
 <view>
+<!-- 判断是否结束跳转不同页面 -->
   <button  wx:if="{{cmp1==cmp2}}"  bindtap="jieshu" class="button"  plain></button>
   <button  wx:elif="{{cmp1!=cmp2}}"  bindtap="zaiLaiYiCi" class="button"  plain></button>
 </view>

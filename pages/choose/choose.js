@@ -3,6 +3,7 @@ Page({
   data: {
 
   },
+  // 实现按键跳转功能
   danRenYouXi:function(){
     wx.navigateTo({
       url: '/pages/offLine_start/offLine_start',

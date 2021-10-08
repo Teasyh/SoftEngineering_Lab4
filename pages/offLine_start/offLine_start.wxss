@@ -31,6 +31,7 @@ page{
   left: 0rpx;
   text-align: left;
 }
+/* 设计骰子样式 */
 .dice1{
   position: absolute;
   height: 100rpx;
