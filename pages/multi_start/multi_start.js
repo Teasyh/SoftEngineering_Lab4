@@ -19,6 +19,11 @@ Page({
       url: '/pages/multi_proceed/multi_proceed?number='+this.data.number+'&Sresult='+SArray
     })
   },  
+  fanhui:function(){
+    wx.navigateTo({
+      url: '/pages/multi_prestart/multi_prestart',
+    })
+  },
   /**
    * 生命周期函数--监听页面加载
    */

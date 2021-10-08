@@ -7,7 +7,7 @@
   <button  wx:if="{{cmp1==cmp2}}"  bindtap="jieshu" class="button"  plain></button>
   <button  wx:elif="{{cmp1!=cmp2}}"  bindtap="zaiLaiYiCi" class="button"  plain></button>
 </view>
-
+<button  bindtap="fanhui" class="back" style="color:blanchedalmond;font-size:0.6cm;" size="mini" plain>⬅返回</button>
 
 <view>
   <image wx:if="{{a==1}}" src="https://ftp.bmp.ovh/imgs/2021/02/6cf5a6c10df61d7c.gif" class="dice1"></image> 

@@ -8,3 +8,10 @@ page{
   background-size: 100% 100%;
   z-index: -1;
 }
+.back{
+  height: 80rpx;
+  width: 30rpx;
+  top:1150rpx;
+  left: 0rpx;
+  text-align: left;
+}

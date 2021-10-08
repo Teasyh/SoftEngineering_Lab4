@@ -6,6 +6,7 @@
 <button  bindtap="multiProceed" class="button" plain></button>
 <view style="position:relative;top:-20rpx;color:white;border-radius:15%;width:550rpx ;height:150rpx;left: 200rpx;font-size:0.6cm;font-style:initial;line-height:290%;" >{{cmp1}} 号玩家,轮到你了
 </view>
+<button  bindtap="fanhui" class="back" style="color:blanchedalmond;font-size:0.6cm;" size="mini" plain>⬅返回</button>
 <view class="dice">
   <image class="dice1" src="https://ftp.bmp.ovh/imgs/2021/02/6cf5a6c10df61d7c.gif" ></image> 
   <image class="dice2" src="https://ftp.bmp.ovh/imgs/2021/02/eec033a94853c439.gif" ></image> 

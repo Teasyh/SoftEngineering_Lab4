@@ -20,6 +20,11 @@ Page({
       number:val*10
     })
   },
+  fanhui:function(){
+    wx.navigateTo({
+      url: '/pages/choose/choose',
+    })
+  },
 /**
    * 生命周期函数--监听页面加载
    */

@@ -4,28 +4,28 @@
 
 <button size="default" plain="true"
         bindtap="danRenYouXi"
-        style="position:relative;top:160rpx;background:darkslateblue;color:rgb(29, 29, 29);border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
+        style="position:relative;top:160rpx;background:darkslateblue;color:white;border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
         >单人游戏
 </button>
 <button size="default" plain="true"
         bindtap="duoRenYouXi"
-        style="position:relative;top:210rpx;background:darkslateblue;color:rgb(29, 29, 29);border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
+        style="position:relative;top:210rpx;background:darkslateblue;color:white;border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
         >多人游戏
 </button>
 <button size="default" plain="true"
         bindtap="youXiGuiZe"
-        style="position:relative;top:260rpx;background:darkslateblue;color:rgb(29, 29, 29);border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
+        style="position:relative;top:260rpx;background:darkslateblue;color:white;border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
         >游戏规则
 </button>
 
 <button size="default" plain="true"
         bindtap="xiuxian"
-        style="position:relative;top:310rpx;background:darkslateblue;color:rgb(29, 29, 29);border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
+        style="position:relative;top:310rpx;background:darkslateblue;color:white;border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
         >休闲空间
 </button>
 <button size="default" plain="true"
         bindtap="yinyue"
-        style="position:relative;top:360rpx;background:darkslateblue;color:rgb(29, 29, 29);border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
+        style="position:relative;top:360rpx;background:darkslateblue;color:white;border-radius:20%;width:4.5cm ;height:2cm;font-size:0.7cm;font-style:oblique;line-height:220%;" 
         >音效设置
 </button>
 <button  bindtap="fanhui" class="back" style="color:blanchedalmond;font-size:0.6cm;" size="mini" plain>⬅返回</button>

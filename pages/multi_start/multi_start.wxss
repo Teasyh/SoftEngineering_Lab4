@@ -24,6 +24,13 @@ page{
   left:200rpx;
   top:900rpx;
 }
+.back{
+  height: 80rpx;
+  width: 30rpx;
+  top:1150rpx;
+  left: 0rpx;
+  text-align: left;
+}
 .dice1{
   position: absolute;
   height: 100rpx;
