@@ -5,21 +5,24 @@ Page({
    * 页面的初始数据
    */
   data: {
-
+    Sresult:new Array()
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-
+    var S = JSON.parse(options.Sresult);
+    this.setData({
+      Sresult:S
+  })
   },
 
   /**
    * 生命周期函数--监听页面初次渲染完成
    */
   onReady: function () {
-
+   
   },
 
   /**

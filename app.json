@@ -1,5 +1,6 @@
 {
   "pages":[
+    
     "pages/home/home",
     "pages/choose/choose",
     "pages/multi_prestart/multi_prestart",
@@ -8,9 +9,6 @@
     "pages/multi_end/multi_end",
     "pages/ranking/ranking",
 
-    
-
-    
 
     "pages/offLine_start/offLine_start",
     "pages/offLine_proceed/offLine_proceed",
